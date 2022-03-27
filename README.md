@@ -1,3 +1,5 @@
 # the-git-rocks
 
-whaaaaat I don't know what I do :)
+The git is actually rocking.
+
+whaaaaat I don't know what I did :)
